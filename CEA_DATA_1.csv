@@ -1,0 +1,5 @@
+﻿Example,shoes,Size,In-store,Cost,Purchase
+1,Many,Small,yes ,Cheap,Yes
+2,Many,Small,No,Costly ,Yes
+3,Many,Small,No,Cheap,Yes
+4,Few,Large,No,Costly,No
